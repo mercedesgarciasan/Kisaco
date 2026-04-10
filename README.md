@@ -2,7 +2,7 @@
 
 ## Contexto del proyecto
 
-Este repositorio contiene el prototipo de una plataforma de networking para eventos desarrollada por **Amalgama** (consultora tecnológica y digital con foco en wellness y fitness) como parte del proceso de venta con el cliente **Kiosaco**.
+Este repositorio contiene el prototipo de una plataforma de networking para eventos desarrollada por **Amalgama** (consultora tecnológica y digital con foco en wellness y fitness) como parte del proceso de venta con el cliente **Kisaco**.
 
 Kiosaco organiza eventos de la industria del wellness y fitness. Actualmente usan **Swapcard** como plataforma de eventos, pero el cliente identificó que no está generando el impacto esperado en términos de conexiones y reuniones 1:1 entre asistentes.
 
